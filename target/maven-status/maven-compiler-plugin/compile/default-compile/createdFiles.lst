@@ -1,9 +1,0 @@
-org/keedio/flume/source/SQLServerCustomDialect.class
-org/keedio/flume/source/SQLSource.class
-org/keedio/flume/source/HibernateHelper.class
-org/keedio/flume/source/SQLSourceHelper.class
-org/keedio/flume/metrics/SqlSourceCounterMBean.class
-org/keedio/flume/metrics/SqlSourceCounter.class
-org/keedio/flume/source/MyCSVWriter.class
-org/keedio/flume/source/SQLSource$1.class
-org/keedio/flume/source/SQLSource$ChannelWriter.class

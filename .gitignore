@@ -1,5 +1,5 @@
 .gitignore
-/target/*
+target/*
 *.log
 *.temp
 *.tmp
